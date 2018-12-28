@@ -1,13 +1,16 @@
-#Ejercicio de evaluación final ﴾bis﴿ - Sprint 2
+## Ejercicio de evaluación final ﴾bis﴿ - Sprint 2
+
 El ejercicio consiste en desarrollar una aplicación web que simula un juego de buscar las parejas. El objetivo del ejercicio es desarrollar la interfaz del juego, no implementar el juego en sí que quedará como un BONUS.
 Antes de empezar, tenéis que crear un nuevo repositorio desde GitHub Classroom usando este enlace. Una vez creado, lo clonamos en nuestro ordenador y en la carpeta creada empezaremos a trabajar en el ejercicio.
 Vamos de definir los distintos hitos del ejercicio:
-1. Maquetación
+
+##1. Maquetación
 En primer lugar vamos a realizar una maquetación básica del juego.
  La aplicación consta de dos partes
-1. Un formulario para elegir el tamaño de la partida y un botón
+##1. Un formulario para elegir el tamaño de la partida y un botón
 2. Un listado de cartas, cada una con 2 imágenes que representan las dos caras de una carta ﴾cuando una
 está visible la otra está oculta﴿.
+
 La imagen para la cara anterior la obtendremos de un servidor y para la posterior usaremos
 https://via.placeholder.com/160x195/30d9c4/ffffff/?text=ADALAB.
 En la imagen del el diseño propuesto podemos ver algunas cartas boca arriba y otras boca abajo.

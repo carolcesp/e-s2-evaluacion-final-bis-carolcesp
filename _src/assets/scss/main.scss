@@ -4,9 +4,13 @@
 .form{
   text-align: center;
 }
-.card{
+.contentCard{
   margin:30px;
-  border:2px solid black;
-  width: 250px;
-  height: 400px;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.img-cardLi{
+  margin-right: 20px;
 }
